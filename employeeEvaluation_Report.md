@@ -1,4 +1,4 @@
-<h2>  Predict and choose the deserve promoted employee <b>model</b> </h2>
+<h2>  Predicting employees for promotion using Classification Models</h2>
 
 <br>
 
@@ -80,9 +80,8 @@ that is about employee performance evaluation features.
 
   
 
-
 <h2> Communication </h2>
 
 
-![Screenshot (36)](https://user-images.githubusercontent.com/88141348/146777092-d9486978-eed3-498f-ab29-f166bb31d0ef.png)
+<img src="https://user-images.githubusercontent.com/93095814/148415136-e84f7206-4d1d-4a38-b30e-434ff3ade4d2.png" width="400" heigh="400" /> 
 
